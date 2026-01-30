@@ -1,4 +1,4 @@
-<h2 align="center">Hey 🙋🏾‍♂️ I'm Koffison—welcome to my repo!</h2>
+<h2 align="center">Hey 👋 I'm Koffison—welcome here!</h2>
 
 ###
 
@@ -8,17 +8,20 @@
   </a>
 </div>
 
-###
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhsMTkzaXc0eWxhd2thbms1ZnEyNWgyYW9kcTU3eGMwM3FweXBlMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif"  />
 
-<h4 align="left">Aspiring Full Stack Software Engineer 🧑🏾‍🚀 💻</h4>
-
-###
-
-<h4 align="left">Think 🧠 - Build 🛠️ - Learn 📚</h4>
 
 ###
 
-<h4 align="left">B.S. in Computer Science & Information Security<br>IT Support Specialization<br>Agile methodology for project management</h4>
+<h4 align="left">I'm a Full Stack Software Engineer</h4>
+
+###
+
+<h6 align="left">Building and solving problems one at a time 🧠</h6>
+
+###
+
+<h6 align="left">B.S. in Computer Science & Information Security<br>IT Support Specialization<br>Agile methodology for PM</h6>
 
 ###
 
@@ -43,10 +46,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="25" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge" height="25" alt="xcode logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
@@ -63,11 +62,3 @@
 ###
 
 <br clear="both">
-
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhsMTkzaXc0eWxhd2thbms1ZnEyNWgyYW9kcTU3eGMwM3FweXBlMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif"  />
-
-###
-
-<h4 align="left">I enjoy Traveling ✈️  • Gaming 🎮 • Car enthusiast 🏎️<br><br>Open to new opportunities to contribute to impactful projects. <br><br>Looking forward to connecting soon!</h4>
-
-###
