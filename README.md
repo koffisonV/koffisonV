@@ -1,64 +1,56 @@
-<h2 align="center">Hey 👋 I'm Koffison—welcome here!</h2>
+<h2>Hey I'm Koffison—welcome here!</h2>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/koffison-voumadi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20with%20me%20on%20linkedin&color=0077B5&logoColor=white&labelColor=fff&style=for-the-badge" height="23" alt="linkedin logo"  />
-  </a>
+<div>
+	<a href="https://www.linkedin.com/in/koffison-voumadi/" target="_blank">
+		<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20with%20me%20on%20linkedin&color=0077B5&logoColor=white&labelColor=fff&style=for-the-badge" height="23" alt="linkedin logo"/>
+	</a>
 </div>
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhsMTkzaXc0eWxhd2thbms1ZnEyNWgyYW9kcTU3eGMwM3FweXBlMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif"  />
+
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhsMTkzaXc0eWxhd2thbms1ZnEyNWgyYW9kcTU3eGMwM3FweXBlMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" alt="Animated typing GIF" />
+
+<h4>Currently working as a Software Engineer</h4>
+<p>Interests: Backend/Frontend development, Mobile development, System Analysis, Data Analysis</p>
+
+- B.S. in Computer Science & Information Security
+- IT Support Specialization
+- Agile methodology for Project Management
 
 
-###
-
-<h4 align="left">I'm a Full Stack Software Engineer</h4>
-
-###
-
-<h6 align="left">Building and solving problems one at a time 🧠</h6>
-
-###
-
-<h6 align="left">B.S. in Computer Science & Information Security<br>IT Support Specialization<br>Agile methodology for PM</h6>
-
-###
+<br clear="both">
 
 <h3 align="center">Technologies</h3>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="25" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="25" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="25" alt="redux logo"  />
+<div>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25" alt="react" />&nbsp;
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25" alt="react native" />&nbsp;
+  <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="25" alt=".net" />&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="25" alt="node" />&nbsp;
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25" alt="git" />&nbsp;
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="25" alt="graphql" />&nbsp;
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="25" alt="postgres" />&nbsp;
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25" alt="tailwind" />
 </div>
 
-###
+<br />
 
-<br clear="both">
+<div>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25" alt="javascript" />&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25" alt="typescript" />&nbsp;
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="25" alt="java" />&nbsp;
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="25" alt="csharp" />&nbsp;
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="25" alt="kotlin" />&nbsp;
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" alt="python" />&nbsp;
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25" alt="cplusplus" />&nbsp;
+  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25" alt="bash" />&nbsp;
+</div>
+
+<br />
+
+<div>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" alt="aws" />&nbsp;
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="docker" />
+</div>&nbsp;
+<hr>
+
+ <p align="center">Building and solving problems one at a time 🧠</p>
